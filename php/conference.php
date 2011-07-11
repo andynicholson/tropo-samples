@@ -6,9 +6,9 @@
 // when someone joins or leaves that conference, the attached phone
 // number will get an SMS alerting them.
 $pins = array();
-$pins['1337'] = '14075551212';
-$pins['2600'] = '19255556789';
-$pins['1234'] = ''; // won't alert
+$pins['0001'] = '';
+$pins['0002'] = '';
+$pins['0003'] = ''; // won't alert
 
 // If set to true, only known Conference IDs will be accepted
 $require_pin = false;
